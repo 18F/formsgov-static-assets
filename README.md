@@ -1,1 +1,1 @@
-# formsgov_staticassets
+# formsgov-static-assets
