@@ -145,7 +145,7 @@
       font-size: 14px;
       font-weight: bold;
       margin: 0;
-      padding: 6px 12px;
+      padding: 3px 6px;
       text-decoration: none;
       text-transform: capitalize;
     }
@@ -239,6 +239,11 @@
         max-width: 100% !important;
         width: auto !important;
       }
+      table[class=body] .th {
+	  background-color: #f8f9fa;
+	  text-align: left;
+	  padding: 8px;
+      }
     }
     /* -------------------------------------
         PRESERVE THESE STYLES IN THE HEAD
@@ -285,9 +290,18 @@
               <table role="presentation" border="0" cellpadding="0" cellspacing="0">
                 <tbody>
 		  <tr><td>
-		    <img src="https://raw.githubusercontent.com/18F/formsgov-static-assets/develop/project-logos/MiA-logo.png" alt="Made in America Logo" style="height: 40px;">Made in America Non-Availability Waiver Request
+			<table role="presentation" border="0" cellpadding="0" cellspacing="0">
+			  <tbody>
+			  <tr>
+			    <th><img src="https://raw.githubusercontent.com/18F/formsgov-static-assets/develop/project-logos/MiA-logo.png" alt="Made in America Logo" style="height: 40px;"></th>
+			    <th>Made in America Non-Availability Waiver Request</th>
+			  </tr>
+			  </tbody>
+			</table>
+		    Made in America Non-Availability Waiver Request
 		  </td></tr>
 		  <tr><td>
+                    <p></p>
                     <p></p>
                     <p>{{ content }}</p>
                   </td>
