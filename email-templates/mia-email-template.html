@@ -145,7 +145,7 @@
       font-size: 14px;
       font-weight: bold;
       margin: 0;
-      padding: 12px 25px;
+      padding: 3px 6px;
       text-decoration: none;
       text-transform: capitalize;
     }
@@ -239,6 +239,11 @@
         max-width: 100% !important;
         width: auto !important;
       }
+      table[class=body] .th {
+	  background-color: #f8f9fa;
+	  text-align: left;
+	  padding: 8px;
+      }
     }
     /* -------------------------------------
         PRESERVE THESE STYLES IN THE HEAD
@@ -283,10 +288,21 @@
           <tbody><tr>
             <td class="wrapper">
               <table role="presentation" border="0" cellpadding="0" cellspacing="0">
-                <tbody><tr>
-                  <td>
-				  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/US-GeneralServicesAdministration-Logo.svg/1023px-US-GeneralServicesAdministration-Logo.svg.png" alt="GSA Logo" height='50' width='auto'>
-                    <h2>There is a new submission for {{ form.title }}.</h2>
+                <tbody>
+		  <tr><td>
+			<table role="presentation" border="0" cellpadding="0" cellspacing="0">
+			  <tbody>
+			  <tr>
+			    <th><img src="https://raw.githubusercontent.com/18F/formsgov-static-assets/develop/project-logos/MiA-logo.png" alt="Made in America Logo" style="height: 40px; width: 142px;"></th>
+			    <th>Made in America Non-Availability Waiver Request</th>
+			  </tr>
+			  </tbody>
+			</table>
+                    <hr/>
+		  </td></tr>
+		  <tr><td>
+                    <p></p>
+                    <p></p>
                     <p>{{ content }}</p>
                   </td>
                 </tr>
@@ -296,10 +312,12 @@
         </tbody></table>
         <div class="footer">
           <table role="presentation" border="0" cellpadding="0" cellspacing="0">
-            <tbody><tr>
-			  <img src="https://raw.githubusercontent.com/18F/formsgov-static-assets/develop/project-logos/formsgov_50px.png" alt="forms.gov logo">
-            </tr>
-          </tbody></table>
+            <tbody>
+              <tr>
+		<img src="https://raw.githubusercontent.com/18F/formsgov-static-assets/develop/project-logos/formsgov_50px.png" alt="forms.gov logo" style="height: 15px;">
+              </tr>
+            </tbody>
+          </table>
         </div>
       </div>
     </td>
