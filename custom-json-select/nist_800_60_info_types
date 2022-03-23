@@ -12,5 +12,530 @@
    "Confidentiality": "Low",
    "Integrity": "Low",
    "Availability": "Low"
- }
+ },
+ {
+   "NIST_Code": "C.2.1.3",
+   "NIST_Title": "Program Monitoring",
+   "Confidentiality": "Low",
+   "Integrity": "Low",
+   "Availability": "Low"
+ },
+ {
+   "NIST_Code": "C.2.2.1",
+   "NIST_Title": "Policy and Guidance",
+   "Confidentiality": "Low",
+   "Integrity": "Low",
+   "Availability": "Low"
+ },
+ {
+   "NIST_Code": "C.2.2.2",
+   "NIST_Title": "Public Comment Tracking",
+   "Confidentiality": "Low",
+   "Integrity": "Low",
+   "Availability": "Low"
+ },
+ {
+   "NIST_Code": "C.2.2.3",
+   "NIST_Title": "Regulatory Creation",
+   "Confidentiality": "Low",
+   "Integrity": "Low",
+   "Availability": "Low"
+ },
+ {
+   "NIST_Code": "C.2.2.4",
+   "NIST_Title": "Rule Publication",
+   "Confidentiality": "Low",
+   "Integrity": "Low",
+   "Availability": "Low"
+ },
+ {
+   "NIST_Code": "C.2.3.1",
+   "NIST_Title": "Budget Formulation",
+   "Confidentiality": "Low",
+   "Integrity": "Low",
+   "Availability": "Low"
+ },
+ {
+   "NIST_Code": "C.2.3.2",
+   "NIST_Title": "Capital Planning",
+   "Confidentiality": "Low",
+   "Integrity": "Low",
+   "Availability": "Low"
+ },
+ {
+   "NIST_Code": "C.2.3.3",
+   "NIST_Title": "Enterprise Architecture",
+   "Confidentiality": "Low",
+   "Integrity": "Low",
+   "Availability": "Low"
+ },
+ {
+   "NIST_Code": "C.2.3.4",
+   "NIST_Title": "Strategic Planning",
+   "Confidentiality": "Low",
+   "Integrity": "Low",
+   "Availability": "Low"
+ },
+ {
+   "NIST_Code": "C.2.3.5",
+   "NIST_Title": "Budget Execution",
+   "Confidentiality": "Low",
+   "Integrity": "Low",
+   "Availability": "Low"
+ },
+ {
+   "NIST_Code": "C.2.3.6",
+   "NIST_Title": "Workforce Planning",
+   "Confidentiality": "Low",
+   "Integrity": "Low",
+   "Availability": "Low"
+ },
+ {
+   "NIST_Code": "C.2.3.7",
+   "NIST_Title": "Management Improvement",
+   "Confidentiality": "Low",
+   "Integrity": "Low",
+   "Availability": "Low"
+ },
+ {
+   "NIST_Code": "C.2.3.8",
+   "NIST_Title": "Budget and Performance Integration",
+   "Confidentiality": "Low",
+   "Integrity": "Low",
+   "Availability": "Low"
+ },
+ {
+   "NIST_Code": "C.2.3.9",
+   "NIST_Title": "Tax and Fiscal Policy",
+   "Confidentiality": "Low",
+   "Integrity": "Low",
+   "Availability": "Low"
+ },
+ {
+   "NIST_Code": "C.2.4.1",
+   "NIST_Title": "Contingency Planning",
+   "Confidentiality": "Moderate",
+   "Integrity": "Moderate",
+   "Availability": "Moderate"
+ },
+ {
+   "NIST_Code": "C.2.4.2",
+   "NIST_Title": "Continuity of Operations",
+   "Confidentiality": "Moderate",
+   "Integrity": "Moderate",
+   "Availability": "Moderate"
+ },
+ {
+   "NIST_Code": "C.2.4.3",
+   "NIST_Title": "Service Recovery",
+   "Confidentiality": "Low",
+   "Integrity": "Low",
+   "Availability": "Low"
+ },
+ {
+   "NIST_Code": "C.2.5.1",
+   "NIST_Title": "Debt Collection",
+   "Confidentiality": "Moderate",
+   "Integrity": "Low",
+   "Availability": "Low"
+ },
+ {
+   "NIST_Code": "C.2.5.2",
+   "NIST_Title": "User Fee Collection",
+   "Confidentiality": "Low",
+   "Integrity": "Low",
+   "Availability": "Moderate"
+ },
+ {
+   "NIST_Code": "C.2.5.3",
+   "NIST_Title": "Federal Asset Sales",
+   "Confidentiality": "Low",
+   "Integrity": "Moderate",
+   "Availability": "Low"
+ },
+ {
+   "NIST_Code": "C.2.6.1",
+   "NIST_Title": "Customer Services",
+   "Confidentiality": "Low",
+   "Integrity": "Low",
+   "Availability": "Low"
+ },
+ {
+   "NIST_Code": "C.2.6.2",
+   "NIST_Title": "Official Information Dissemination",
+   "Confidentiality": "Low",
+   "Integrity": "Low",
+   "Availability": "Low"
+ },
+ {
+   "NIST_Code": "C.2.6.3",
+   "NIST_Title": "Proudct Outreach",
+   "Confidentiality": "Low",
+   "Integrity": "Low",
+   "Availability": "Low"
+ },
+ {
+   "NIST_Code": "C.2.6.4",
+   "NIST_Title": "Public Relations",
+   "Confidentiality": "Low",
+   "Integrity": "Low",
+   "Availability": "Low"
+ },
+ {
+   "NIST_Code": "C.2.7.1",
+   "NIST_Title": "Legislation Tracking",
+   "Confidentiality": "Low",
+   "Integrity": "Low",
+   "Availability": "Low"
+ },
+ {
+   "NIST_Code": "C.2.7.2",
+   "NIST_Title": "Legislation Testimony",
+   "Confidentiality": "Low",
+   "Integrity": "Low",
+   "Availability": "Low"
+ },
+ {
+   "NIST_Code": "C.2.7.3",
+   "NIST_Title": "Proposal Development",
+   "Confidentiality": "Moderate",
+   "Integrity": "Low",
+   "Availability": "Low"
+ },
+ {
+   "NIST_Code": "C.2.7.4",
+   "NIST_Title": "Congressional Liaison Operations",
+   "Confidentiality": "Moderate",
+   "Integrity": "Low",
+   "Availability": "Low"
+ },
+ {
+   "NIST_Code": "C.2.8.1",
+   "NIST_Title": "Central Fiscal Operations",
+   "Confidentiality": "Moderate",
+   "Integrity": "Low",
+   "Availability": "Low"
+ },
+ {
+   "NIST_Code": "C.2.8.2",
+   "NIST_Title": "Legislative Functions",
+   "Confidentiality": "Low",
+   "Integrity": "Low",
+   "Availability": "Low"
+ },
+ {
+   "NIST_Code": "C.2.8.3",
+   "NIST_Title": "Executive Functions",
+   "Confidentiality": "Low",
+   "Integrity": "Low",
+   "Availability": "Low"
+ },
+ {
+   "NIST_Code": "C.2.8.4",
+   "NIST_Title": "Central Property Management",
+   "Confidentiality": "Low",
+   "Integrity": "Low",
+   "Availability": "Low"
+ },
+ {
+   "NIST_Code": "C.2.8.5",
+   "NIST_Title": "Central Personnel Management",
+   "Confidentiality": "Low",
+   "Integrity": "Low",
+   "Availability": "Low"
+ },
+ {
+   "NIST_Code": "C.2.8.6",
+   "NIST_Title": "Taxation Management",
+   "Confidentiality": "Moderate",
+   "Integrity": "Low",
+   "Availability": "Low"
+ },
+ {
+   "NIST_Code": "C.2.8.7",
+   "NIST_Title": "Central Records and Statistics Management",
+   "Confidentiality": "Moderate",
+   "Integrity": "Low",
+   "Availability": "Low"
+ },
+ {
+   "NIST_Code": "C.2.8.8",
+   "NIST_Title": "Income Information",
+   "Confidentiality": "Moderate",
+   "Integrity": "Moderate",
+   "Availability": "Moderate"
+ },
+ {
+   "NIST_Code": "C.2.8.9",
+   "NIST_Title": "Personal Identity and Authentication Information",
+   "Confidentiality": "Moderate",
+   "Integrity": "Moderate",
+   "Availability": "Moderate"
+ },
+ {
+   "NIST_Code": "C.2.8.10",
+   "NIST_Title": "Entitelement Event Information",
+   "Confidentiality": "Moderate",
+   "Integrity": "Moderate",
+   "Availability": "Moderate"
+ },
+ {
+   "NIST_Code": "C.2.8.11",
+   "NIST_Title": "Representative Payee Information",
+   "Confidentiality": "Moderate",
+   "Integrity": "Moderate",
+   "Availability": "Moderate"
+ },
+ {
+   "NIST_Code": "C.2.8.12",
+   "NIST_Title": "General Information",
+   "Confidentiality": "Low",
+   "Integrity": "Low",
+   "Availability": "Low"
+ },
+ {
+   "NIST_Code": "C.3.1.1",
+   "NIST_Title": "Facilities, Fleet, and Equipment Management",
+   "Confidentiality": "Low",
+   "Integrity": "Low",
+   "Availability": "Low"
+ },
+ {
+   "NIST_Code": "C.3.1.2",
+   "NIST_Title": "Help Desk Services",
+   "Confidentiality": "Low",
+   "Integrity": "Low",
+   "Availability": "Low"
+ },
+ {
+   "NIST_Code": "C.3.1.3",
+   "NIST_Title": "Security Management",
+   "Confidentiality": "Moderate",
+   "Integrity": "Moderate",
+   "Availability": "Low"
+ },
+ {
+   "NIST_Code": "C.3.1.4",
+   "NIST_Title": "Travel",
+   "Confidentiality": "Low",
+   "Integrity": "Low",
+   "Availability": "Low"
+ },
+ {
+   "NIST_Code": "C.3.1.5",
+   "NIST_Title": "Workplace Policy Development and Management",
+   "Confidentiality": "Low",
+   "Integrity": "Low",
+   "Availability": "Low"
+ },
+ {
+   "NIST_Code": "C.3.2.1",
+   "NIST_Title": "Assets and Liability Management",
+   "Confidentiality": "Low",
+   "Integrity": "Low",
+   "Availability": "Low"
+ },
+ {
+   "NIST_Code": "C.3.2.2",
+   "NIST_Title": "Reporting and Information",
+   "Confidentiality": "Low",
+   "Integrity": "Low",
+   "Availability": "Low"
+ },
+ {
+   "NIST_Code": "C.3.2.3",
+   "NIST_Title": "Funds Control",
+   "Confidentiality": "Moderate",
+   "Integrity": "Moderate",
+   "Availability": "Low"
+ },
+ {
+   "NIST_Code": "C.3.2.4",
+   "NIST_Title": "Accounting",
+   "Confidentiality": "Low",
+   "Integrity": "Moderate",
+   "Availability": "Low"
+ },
+ {
+   "NIST_Code": "C.3.2.5",
+   "NIST_Title": "Payments",
+   "Confidentiality": "Low",
+   "Integrity": "Moderate",
+   "Availability": "Low"
+ },
+ {
+   "NIST_Code": "C.3.2.6",
+   "NIST_Title": "Collections and Receivables",
+   "Confidentiality": "Low",
+   "Integrity": "Moderate",
+   "Availability": "Low"
+ },
+ {
+   "NIST_Code": "C.3.2.7",
+   "NIST_Title": "Cost Accounting/Performance Measurement",
+   "Confidentiality": "Low",
+   "Integrity": "Moderate",
+   "Availability": "Low"
+ },
+ {
+   "NIST_Code": "C.3.3.1",
+   "NIST_Title": "HR Strategy",
+   "Confidentiality": "Low",
+   "Integrity": "Low",
+   "Availability": "Low"
+ },
+ {
+   "NIST_Code": "C.3.3.2",
+   "NIST_Title": "Staff Acquisition",
+   "Confidentiality": "Low",
+   "Integrity": "Low",
+   "Availability": "Low"
+ },
+ {
+   "NIST_Code": "C.3.3.3",
+   "NIST_Title": "Organization & Position Management",
+   "Confidentiality": "Low",
+   "Integrity": "Low",
+   "Availability": "Low"
+ },
+ {
+   "NIST_Code": "C.3.3.4",
+   "NIST_Title": "Compensation Management",
+   "Confidentiality": "Low",
+   "Integrity": "Low",
+   "Availability": "Low"
+ },
+ {
+   "NIST_Code": "C.3.3.5",
+   "NIST_Title": "Benefits Management",
+   "Confidentiality": "Low",
+   "Integrity": "Low",
+   "Availability": "Low"
+ },
+ {
+   "NIST_Code": "C.3.3.6",
+   "NIST_Title": "Employee Performance management",
+   "Confidentiality": "Low",
+   "Integrity": "Low",
+   "Availability": "Low"
+ },
+ {
+   "NIST_Code": "C.3.3.7",
+   "NIST_Title": "Employee Relations",
+   "Confidentiality": "Low",
+   "Integrity": "Low",
+   "Availability": "Low"
+ },
+ {
+   "NIST_Code": "C.3.3.8",
+   "NIST_Title": "Labor Relations",
+   "Confidentiality": "Low",
+   "Integrity": "Low",
+   "Availability": "Low"
+ },
+ {
+   "NIST_Code": "C.3.3.9",
+   "NIST_Title": "Separation Management",
+   "Confidentiality": "Low",
+   "Integrity": "Low",
+   "Availability": "Low"
+ },
+ {
+   "NIST_Code": "C.3.3.10",
+   "NIST_Title": "Human Resources Development",
+   "Confidentiality": "Low",
+   "Integrity": "Low",
+   "Availability": "Low"
+ },
+ {
+   "NIST_Code": "C.3.4.1",
+   "NIST_Title": "Goods Acquisition",
+   "Confidentiality": "Low",
+   "Integrity": "Low",
+   "Availability": "Low"
+ },
+ {
+   "NIST_Code": "C.3.4.2",
+   "NIST_Title": "Inventory Control",
+   "Confidentiality": "Low",
+   "Integrity": "Low",
+   "Availability": "Low"
+ },
+ {
+   "NIST_Code": "C.3.4.3",
+   "NIST_Title": "Logistics Management",
+   "Confidentiality": "Low",
+   "Integrity": "Low",
+   "Availability": "Low"
+ },
+ {
+   "NIST_Code": "C.3.4.4",
+   "NIST_Title": "Services Acquisition",
+   "Confidentiality": "Low",
+   "Integrity": "Low",
+   "Availability": "Low"
+ },
+ {
+   "NIST_Code": "C.3.5.1",
+   "NIST_Title": "System Development",
+   "Confidentiality": "Low",
+   "Integrity": "Moderate",
+   "Availability": "Low"
+ },
+ {
+   "NIST_Code": "C.3.5.2",
+   "NIST_Title": "Lifecycle/Change Management",
+   "Confidentiality": "Low",
+   "Integrity": "Moderate",
+   "Availability": "Low"
+ },
+ {
+   "NIST_Code": "C.3.5.3",
+   "NIST_Title": "System Maintenance",
+   "Confidentiality": "Low",
+   "Integrity": "Moderate",
+   "Availability": "Low"
+ },
+ {
+   "NIST_Code": "C.3.5.4",
+   "NIST_Title": "IT Infrastructure Maintenance",
+   "Confidentiality": "Low",
+   "Integrity": "Low",
+   "Availability": "Low"
+ },
+ {
+   "NIST_Code": "C.3.5.5",
+   "NIST_Title": "Information Security",
+   "Confidentiality": "Low",
+   "Integrity": "Moderate",
+   "Availability": "Low"
+ },
+ {
+   "NIST_Code": "C.3.5.6",
+   "NIST_Title": "Record Retention",
+   "Confidentiality": "Low",
+   "Integrity": "Low",
+   "Availability": "Low"
+ },
+ {
+   "NIST_Code": "C.3.5.7",
+   "NIST_Title": "Information Management",
+   "Confidentiality": "Low",
+   "Integrity": "Moderate",
+   "Availability": "Low"
+ },
+ {
+   "NIST_Code": "C.3.5.8",
+   "NIST_Title": "System and Network Monitoring",
+   "Confidentiality": "Moderate",
+   "Integrity": "Moderate",
+   "Availability": "Low"
+ },
+ {
+   "NIST_Code": "C.3.5.9",
+   "NIST_Title": "Information Sharing",
+   "Confidentiality": "N/A",
+   "Integrity": "N/A",
+   "Availability": "N/A"
+ },
 ]
