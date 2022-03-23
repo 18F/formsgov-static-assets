@@ -1,10 +1,10 @@
 [
  {
-   "NAICS_Code": "C.2.1.1",
-   "NAICS_Title": "Corrective Action"
+   "NIST_Code": "C.2.1.1",
+   "NIST_Title": "Corrective Action"
  },
  {
-   "NAICS_Code": "C.2.1.2",
-   "NAICS_Title": "Program Evaluation"
+   "NIST_Code": "C.2.1.2",
+   "NIST_Title": "Program Evaluation"
  }
 ]
